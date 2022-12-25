@@ -1,0 +1,16 @@
+img {
+    height: 24px;
+    width: 24px;
+    background-color: green;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius: 10px;
+}
+div {
+    background-color: red;
+    position: relative;
+    height: 300px;
+    width: 400px;
+
+}

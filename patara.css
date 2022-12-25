@@ -1,0 +1,12 @@
+
+.psp {
+    width: 35px;
+    height: 35px;
+}
+#input {
+    width: 900px;
+    height: 22px;
+}
+div {
+    display: inline-block;
+}

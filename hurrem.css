@@ -1,0 +1,117 @@
+.psp {
+    color: green;
+    font-size: 32px;
+    font-weight: bold;
+    border: 4px solid rebeccapurple;
+    padding: 6px;
+    margin-top: 40px;
+}
+#wam {
+    color: red;
+    font-size: 32px;
+    margin-top: 20px;
+}
+.hurema {
+    position: absolute;
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+}
+.kor {
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 20px;
+}
+.vid {
+    margin-top: 220px;
+}
+.wr {
+    margin-top: 500px;
+}
+body {
+    background-color: rgb(204, 216, 216);
+}
+.hurtex {
+    font-size: 32px;
+}
+.forma1 {
+    background-color: rgb(194, 157, 229);
+    border-radius: 20px;
+}
+.frst {
+    padding-left: 10px;
+    margin-left: 100px;
+}
+.frst1 {
+    border-radius: 20px;
+    margin-left: 100px;
+}
+.frst2 {
+    border-radius: 20px;
+    margin-left: 100px;
+}
+.frst3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.bor {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.range {
+    margin-top: 10px;
+}
+.date {
+    margin-left: 100px;
+}
+.range {
+    margin-left: 100px;
+}
+.checkbox {
+    margin-left: 20px;
+}
+.ch {
+    margin-left: 100px;
+    padding-bottom: 10px;
+}
+.cha {
+    margin-left: 100px;
+    padding-bottom: 10px;
+}
+.checkbox1 {
+    margin-left: 20px;
+}
+.texthurem {
+    margin-left: 300px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.gagzavna {
+    margin-left: 570px;
+}
+form {
+    width: 400px;
+    margin-left: 300px;
+}
+.iframe {
+    width: 1100px;
+    height: 800px;
+    border: 20px;
+}
+.seriali {
+    font-size: 32px;
+    color: black;
+}
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}

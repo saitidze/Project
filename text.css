@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none; 
+    color: white;
+    cursor: pointer;
+  }
+
+  
+  
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  h1 {
+
+    color: black;
+
+
+
+  }
+  

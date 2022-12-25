@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(76, 74, 74);
+    
+}
+.socialMedia{
+    margin: 10px;
+}
+.piano {
+    width: 100%;
+}
+.piano:hover{
+    border-radius: 30%;
+}
+.facebook {
+    width: 22px;
+    height: 22px;
+}
+.insta {
+    width: 22px;
+    height: 22px;
+}
+.linkedin {
+    width: 23px;
+    height: 23px;
+}
+div {
+    display: inline-block;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+.about {
+    font-size: 25px;
+    color: aliceblue;
+}
+.galery {
+    font-size: 25px;
+    color:aliceblue;
+    margin: 20px;
+}
+.projects {
+    font-size: 25px;
+    color: aliceblue;
+}
+.about:hover {
+    background-color: rgb(119, 206, 61);
+    border-radius: 30%;
+}
+.galery:hover {
+    background-color: rgb(119, 206, 61);
+    border-radius: 25%;
+}
+.projects:hover {
+    background-color: rgb(119, 206, 61);
+    border-radius: 30%;
+}
